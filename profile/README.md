@@ -48,14 +48,6 @@ Inspired by derjozelot – customized for FrostleafDev
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrostleafDev&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=FrostleafDev&theme=dark&hide_border=true" height="150"/>
-</div>
-
----
-
 <h3 align="center">🤝 Join Us</h3>
 <p align="center">
   We are always looking for passionate developers to collaborate with us on plugins, games, and networking projects. Reach out via our <a href="https://frostleaf.jozelot.de/discord">Discord</a>!
