@@ -8,10 +8,6 @@ Inspired by derjozelot – customized for FrostleafDev
        style="width: 100%;">
 </p>
 
-<div align="center">
-  <p>FrostleafDev is a professional development team building cutting-edge multiplayer games, Minecraft plugins, and networking solutions.</p>
-</div>
-
 ---
 
 <h3 align="center">🛠 What We Do</h3>
@@ -54,5 +50,3 @@ Inspired by derjozelot – customized for FrostleafDev
 </p>
 
 ---
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostleafDev&layout=compact&theme=dark)
