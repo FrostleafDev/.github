@@ -37,7 +37,7 @@ Inspired by derjozelot – customized for FrostleafDev
 
 <h3 align="center">🤝 Join Us</h3>
 <p align="center">
-  We are always looking for passionate developers to collaborate with us on plugins, games, and networking projects. Reach out via our <a href="https://frostleaf.jozelot.de/discord">Discord</a>!
+  We are always looking for passionate developers to collaborate with us on plugins, games, and networking projects. Reach out via our <a href="https://jozelot.de/discord">Discord</a>!
 </p>
 
 ---
