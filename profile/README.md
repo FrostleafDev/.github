@@ -3,7 +3,7 @@ Inspired by derjozelot – customized for FrostleafDev
 --->
 
 <p align="center">
-  <img alt="FrostleafDev"
+  <img alt="Frostleaf"
        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=FrostleafDev&fontAlignY=35&fontSize=50&desc=Networking%20%7C%20Game%20Dev%20%7C%20Plugins&descSize=14&descAlignY=60&animation=fadeIn"
        style="width: 100%;">
 </p>
