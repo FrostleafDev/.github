@@ -15,7 +15,7 @@ Inspired by derjozelot – customized for FrostleafDev
   <li>Minecraft plugin developement for PaperMC, FoliaMC and Velocity based servers. 
   </li>
   <li>
-    Front- and Backend developement for websites and web applications.
+    Front- and Backend developement for websites and web applications with React and TypeScript.
   </li>
   <li>
     Gamedevelopement in C# with Unity.
